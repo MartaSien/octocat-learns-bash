@@ -8,12 +8,11 @@ Practice Bash with Octocat!
 
 - `help` - bash shell commands list
 
-### Input & Output
+### ![Input & Output](https://github.com/MartaSien/octocat-learns-bash/actions/workflows/input-output.yml/badge.svg)
 
 - Redirection of output and input. Overwrite output: `>` append output: `>>`
 - `echo` write a message to the standard output
 - `{}` - write a sequence
-- 🔗 Link to the exercise
 
 ### Traversing directories
 
@@ -31,6 +30,9 @@ Practice Bash with Octocat!
 
 - `Tab` - complete arguments or list all available commands
 - `ctrl-l` - clear the screen
+- `ctrl-r` - search bash command history
+- `ctrl-c` 
+- `ctrl-z`
 
 ## Sources:
 
